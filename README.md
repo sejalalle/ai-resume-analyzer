@@ -161,7 +161,7 @@ http://localhost:3000
 **Sejal Alle**
 
 * GitHub: https://github.com/sejalalle
-* LinkedIn: Add Your LinkedIn URL
+* LinkedIn: https://www.linkedin.com/in/sejal-alle-b240b9284/
 
 ---
 
