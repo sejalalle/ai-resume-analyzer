@@ -42,38 +42,16 @@ An AI-powered Resume Analysis platform built using the MERN Stack and Google Gem
 * PDF-Parse
 * CORS
 
----
-
-## 📸 Screenshots
-
-### Home Page
-
-(Add Screenshot Here)
-
-### Resume Upload
-
-(Add Screenshot Here)
-
-### Analysis Results
-
-(Add Screenshot Here)
 
 ---
 
 ## 🚀 Live Demo
 
-Frontend:
+Full App:
 
 ```text
-https://your-vercel-url.vercel.app
+https://ai-resume-analyzer-five-livid.vercel.app/
 ```
-
-Backend:
-
-```text
-https://your-render-url.onrender.com
-```
-
 ---
 
 ## 📂 Project Structure
